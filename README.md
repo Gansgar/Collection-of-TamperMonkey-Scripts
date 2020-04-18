@@ -8,4 +8,5 @@ Currently I'm using Chrome with the chrome flag `enable-force-dark` to `Enabled 
 ### Automatic redirect to Wikipedia Mobile on Desktop
 This was my first TamperMonkey script and it does what the title states. 
 I find the mobile page to help me keep the focus better. 
+
 https://github.com/Gansgar/automatic-wikipedia-mobile-redirect
