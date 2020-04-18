@@ -2,9 +2,9 @@
 // @name         Detexify White on Black
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  This script inverts the SVG drawing space and the images, to force white on black for all elements. Those parts were left out by the chrome dark mode.
 // @author       You
-// @match        http://detexify.kirelabs.org/*
+// @match        *://detexify.kirelabs.org/*
 // @grant        GM_addStyle
 // ==/UserScript==
 
